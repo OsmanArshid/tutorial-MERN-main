@@ -1,3 +1,6 @@
+// gonna define schema for eveything diff files
+
+
 import mongoose from "mongoose";
 
 const userSchema = new mongoose.Schema({

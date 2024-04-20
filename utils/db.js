@@ -1,3 +1,5 @@
+// database connecting, helper functions
+
 import mongoose from "mongoose";
 
 export const connect = async () => {
